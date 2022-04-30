@@ -1,6 +1,9 @@
 import this
 import hamburgao
-
+import pizza
+import milFolhasFrango
+import milFolhasQueijo
+import bauru
 
 this.opcao = 0
 def Menu ():
